@@ -120,8 +120,8 @@ if ($reportType === 'enrollment') {
 
     <div class="container animate-fade-in">
         <header style="margin-bottom: 36px; text-align: center;">
-            <h1 style="font-size: 2.25rem; margin-bottom: 8px;">Report Generator</h1>
-            <p style="color: var(--text-muted); font-size: 1rem;">Select a report type to preview data, then export to Excel with charts and headers.</p>
+            <h1 style="font-size: 2.5rem; color: var(--primary); margin-bottom: 8px;">Report Generator</h1>
+            <p style="color: var(--text-main); font-size: 1.1rem;">Select a report type to preview data, then export to Excel with charts and headers.</p>
         </header>
 
         <!-- Transaction Navigation -->
